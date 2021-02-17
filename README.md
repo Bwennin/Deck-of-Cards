@@ -21,4 +21,4 @@ Class: CardDeck
 +printHand(): void
 
 Class: CardDeckMain  
-+main(args: String[])
++main(args: String[]) // Code to test both methods.
